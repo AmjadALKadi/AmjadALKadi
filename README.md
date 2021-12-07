@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmjadALKadi
 - 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Data science (data management and analysis)
+- 💞️ I’m looking to collaborate on ...Continuous learning and development of my programming and analytics skills
 - 📫 How to reach me ...
 
 <!---
